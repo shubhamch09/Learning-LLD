@@ -1,0 +1,11 @@
+# Ignore Python
+__pycache__/
+*.pyc
+
+# Ignore Java
+*.class
+
+# Ignore IDE files
+.idea/
+.vscode/
+.DS_Store
