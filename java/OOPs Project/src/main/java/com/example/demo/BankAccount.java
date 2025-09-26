@@ -27,4 +27,8 @@ public class BankAccount {
         balance -= amount;
         System.out.println("Withdrew: " + amount + ". New balance: " + balance);
     }
+
+    public void showBalance() {
+        System.out.println(ownerName + "Current balance: " + balance);
+    }
 }

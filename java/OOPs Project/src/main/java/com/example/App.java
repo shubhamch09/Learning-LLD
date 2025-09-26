@@ -36,12 +36,14 @@ public class App
 
          // Deposit money
         account.deposit(500.0);
+        account.showBalance();
 
         // Withdraw money
         account.withdraw(200.0);
-
+        account.showBalance();
         // Attempt to withdraw more than the balance
         account.withdraw(2000.0);
+        account.showBalance();
     }
 
    
