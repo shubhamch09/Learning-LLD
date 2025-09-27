@@ -28,6 +28,7 @@ Feel free to suggest improvements, add new concepts, or submit test cases! Pleas
 
 ## Concepts Covered (examples)
 
+- OOPs Concepts
 - Singleton Pattern
 - Factory Pattern
 - Observer Pattern
